@@ -4,6 +4,7 @@
     "annot",
     "cbar",
     "cmap",
+    "multilabel",
     "proba",
     "randn",
     "xlabel",
