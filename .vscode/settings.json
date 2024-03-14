@@ -6,6 +6,8 @@
     "cbar",
     "cluster",
     "cmap",
+    "dendrogram",
+    "Dendrograms",
     "kmeans",
     "multilabel",
     "proba",
@@ -13,6 +15,7 @@
     "sklearrn",
     "xlabel",
     "xticklabels",
+    "xticks",
     "ylabel",
     "yticklabels"
   ]
