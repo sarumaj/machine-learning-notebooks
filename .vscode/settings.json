@@ -16,6 +16,7 @@
     "linnerud",
     "meshgrid",
     "multilabel",
+    "ndarray",
     "polyfit",
     "proba",
     "quantile",
