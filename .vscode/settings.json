@@ -12,6 +12,7 @@
     "Dendrograms",
     "dropna",
     "Gini",
+    "idxmax",
     "kaggle",
     "kmeans",
     "linestyles",
