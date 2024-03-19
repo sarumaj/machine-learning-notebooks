@@ -7,6 +7,7 @@
     "cluster",
     "cmap",
     "DBSCAN",
+    "ddof",
     "dendrogram",
     "Dendrograms",
     "dropna",
